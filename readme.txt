@@ -1,5 +1,4 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 I AM DEV3!
-I AM DEV1!
 
